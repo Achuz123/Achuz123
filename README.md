@@ -27,7 +27,7 @@ Passionate about programming, web & mobile app development, and cybersecurity, I
 ✅ **[Cypics](#)** – Centralized emergency reporting app with secure Firebase integration  
 ✅ **[Steganography](#)** – Data security project protecting sensitive information  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Achu101?theme=dark&ext=heatmap&border=none)
+
 
 
 
