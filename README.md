@@ -1,9 +1,13 @@
 <h1>👋 Hi, I'm Achuth B! </h1>
 
-🚀 **Cybersecurity Enthusiast | Software Developer | Mobile & Web App Developer**  <br><br>
 
-I am a B.Tech student specializing in Cyber Security and Digital Forensics at VIT Bhopal University.  
-Passionate about programming, web & mobile app development, and cybersecurity, I love creating secure and innovative applications.
+
+🚀 *B.Tech | Cyber Security & Digital Forensics | VIT Bhopal*  
+💻 Passionate about *programming, web & mobile app development, and cybersecurity*  
+🔍 Exploring the intersection of *security and software development*  
+📌 Building projects, learning new technologies, and sharing knowledge  
+
+Let's connect and collaborate! ✨
 
 ## My Skills  
 
