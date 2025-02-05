@@ -2,7 +2,7 @@
 
 
 
-🚀 *B.Tech | Cyber Security & Digital Forensics | VIT Bhopal*  
+🚀 *B.Tech | Cyber Security & Digital Forensics | VIT Bhopal University*  
 💻 Passionate about *programming, web & mobile app development, and cybersecurity*  
 🔍 Exploring the intersection of *security and software development*  
 📌 Building projects, learning new technologies, and sharing knowledge  
