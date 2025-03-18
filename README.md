@@ -4,8 +4,7 @@
 🚀 *B.Tech | Cyber Security & Digital Forensics | VIT Bhopal University
 💻 Passionate about *programming, web & mobile app development, and cybersecurity
 🔍 Exploring the intersection of *security and software development
-📌 Building projects, learning new technologies, and sharing knowledge 
-    <
+📌 Building projects, learning new technologies, and sharing knowledge     
 </pre><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achuz123&label=Profile%20views&color=0e75b6&style=flat" alt="achuz123" /> </p>
 
