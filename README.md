@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Achuth B</h1>
 <pre>
-  <h3>
+  
 🚀 *B.Tech | Cyber Security & Digital Forensics | VIT Bhopal University
 💻 Passionate about *programming, web & mobile app development, and cybersecurity
 🔍 Exploring the intersection of *security and software development
 📌 Building projects, learning new technologies, and sharing knowledge 
-    </h3>
-</pre>
+    <
+</pre><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achuz123&label=Profile%20views&color=0e75b6&style=flat" alt="achuz123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achuz123" alt="achuz123" /></a> </p>
