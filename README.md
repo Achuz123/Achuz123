@@ -10,7 +10,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=achuz123&title=Commit,Experience,Repositories" alt="achuz123" />
 
-## My Skills  
+## 🛠️ My Skills
 
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
@@ -40,9 +40,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achuz123&show_icons=true&locale=en&layout=compact" alt="achuz123" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=achuz123&show_icons=true&locale=en&layout=compact" alt="achuz123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achuz123&show_icons=true&locale=en" alt="achuz123" /></p>
+
 
 ## 📫 Connect with Me  
 
