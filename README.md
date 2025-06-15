@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Achuth B</h1>
 
   
-🚀 *B.Tech | Cyber Security & Digital Forensics | VIT Bhopal University<br>
+🚀 B.Tech | Cyber Security & Digital Forensics | VIT Bhopal University<br>
 💻 Passionate about programming, web & mobile app development, and cybersecurity<br>
 🔍 Exploring the intersection of security and software development<br>
 📌 Building projects, learning new technologies, and sharing knowledge <br>    
