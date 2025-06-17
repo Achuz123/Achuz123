@@ -1,16 +1,17 @@
-<h1 align="left">Hi 👋, I'm Achuth B</h1>
+<h1 align="left">Hi , I'm Achuth B</h1>
 
   
-🚀 B.Tech | Cyber Security & Digital Forensics | VIT Bhopal University<br>
-💻 Passionate about programming, web & mobile app development, and cybersecurity<br>
-🔍 Exploring the intersection of security and software development<br>
-📌 Building projects, learning new technologies, and sharing knowledge <br>    
+ B.Tech | Cyber Security & Digital Forensics | VIT Bhopal University<br>
+ Passionate about programming, web & mobile app development, and cybersecurity<br>
+ Exploring the intersection of security and software development<br>
+ Building projects, learning new technologies, and sharing knowledge <br>    
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=achuz123&label=Profile%20views&color=0e75b6&style=flat" alt="achuz123" /> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=achuz123&title=Commits,Experience,Repositories&theme=darkhub&no-frame=false&no-bg=true&margin-w=10" alt="achuz123" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=achuz123&title=Commit,Experience,Repositories" alt="achuz123" />
 
-## 🛠️ My Skills
+
+
+##  My Skills
 
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
@@ -44,7 +45,7 @@
 
 
 
-## 📫 Connect with Me  
+##  Connect with Me  
 
 <p align="center">
     <a href="https://www.linkedin.com/in/achuth-b-424328251/" target="_blank" style="margin: 10px; border-radius: 10px;">
