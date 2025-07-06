@@ -2,7 +2,7 @@
 <h3 align="center">Cyber Security | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&width=435&lines=Cyber+Security+%7C+Web+Dev+%7C+AI+%7C+Web+3.0;B.Tech+-+VIT+Bhopal+University;Building+things+securely+on+the+web;Learning+and+Exploring+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&width=435&lines=Cyber+Security+%7C+Web+Dev+%7C+AI;B.Tech+-+VIT+Bhopal+University;Building+things+securely;Learning+and+Exploring+Everyday" alt="Typing SVG" />
 </p>
 
 ---
@@ -47,15 +47,15 @@
 
 #### Screenly – Online Movie Ticket Booking App  
 React + Node.js + Stripe + MongoDB  
-<img src="https://github.com/achuz123/Screenly/assets/00000000/movie-ticket-demo.gif" width="80%" />
 
 #### Agriguard – Smart Agricultural Rover  
-ESP32-CAM + Firebase + Python + AI  
-<img src="https://github.com/achuz123/agri-guard/assets/00000000/agri-rover-demo.gif" width="80%" />
+ESP32-CAM + Firebase + Python + AI
 
-#### IPO Tracker – Financial Web App + API  
-React + REST API + Chart.js + MongoDB  
-<img src="https://github.com/achuz123/ipo-tracker/assets/00000000/ipo-tracker-demo.gif" width="80%" />
+#### Secure Image Hashing & Steganography Toolkit  
+**Python + OpenCV + NumPy | LSB + SIFT Integration**  
+
+#### Peedika – Shopping Site (Frontend Only)  
+**HTML + CSS + JavaScript | Responsive UI**  
 
 ---
 
